@@ -35,8 +35,8 @@ Talk about testing
 
 # Lab 04
 
-- add 2 new models 
-  - customers and orders
-- add a collection class 
-- bring everything into models index
-- create associations between customers and orders
+~~- add 2 new models ~~
+  ~~- customers and orders~~
+~~- add a collection class ~~
+~~- bring everything into models index~~
+~~- create associations between customers and orders~~
